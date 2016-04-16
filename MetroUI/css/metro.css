@@ -357,6 +357,7 @@ h6 .small {
 }
 .text-light {
   font-weight: 300;
+  font-family: 'Microsoft YaHei', 'SimHei', 'STHeiti', sans-serif;
 }
 .text-ellipsis {
   overflow: hidden;
