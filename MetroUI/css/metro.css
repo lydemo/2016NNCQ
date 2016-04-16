@@ -10801,8 +10801,9 @@ input[type="submit"].link:active {
   position: fixed;
   top: 20px;
   left: 80px;
+  font-family:'Microsoft YaHei', 'SimHei', 'STHeiti', sans-serif;
   font-weight: 300;
-  font-size: 42px;
+  font-size: 36px;
   line-height: 1.1;
 }
 .tile-group {
