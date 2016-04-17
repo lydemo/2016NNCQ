@@ -1,0 +1,396 @@
+.arrow{
+    position: relative;
+    float: right;
+    right: 23px;
+    top: 7px;
+    width: 0px;
+    height:0px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: transparent transparent transparent rgb(231,234,235);
+}
+.btn_add{
+    height: 44px;
+    width: 76px;
+    background-color: rgb(34,97,171);
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: SimHei;
+    font-size: 18px;
+    margin-right: 11px;
+    margin-top: 13px;
+}
+.btn_delete{
+    height: 44px;
+    width: 76px;
+    background-color: rgb(49,51,58);
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: SimHei;
+    font-size: 18px;
+    margin-top: 13px;
+}
+.btn_gotopage{
+    height: 15px;
+    width: 20px;
+    background-color: rgb(0,157,228);
+}
+.btn_gotopage:hover{
+      background-color: rgb(0,157,228);
+    border: none;
+}
+.btn_paginator{
+    height: 15px;
+    width: 20px;
+    background-color: rgb(248,248,248);
+    border:1px solid rgb(211,211,211);
+    color: rgb(116,116,116);
+}
+.btn_paginator:hover{
+    height: 15px;
+    width: 20px;
+    background-color: rgb(0,157,228);
+    border: none;
+    color: #ffffff;
+}
+.btn_searching{
+    height: 32px;
+    width: 58px;
+    background-color: rgb(34,97,171);
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: SimHei;
+    font-size: 18px;
+
+}
+.cellcontext{
+     position: absolute;
+     left: 100px;
+     font-family: SimHei;
+     font-size: 18px;
+     line-height: 52px;
+}
+.cellcontext a{
+    color: rgb(235,235,235);
+}
+.checkbox{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    left: 74px;
+    margin-top: 13px;
+    
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 58px;
+    background-color: rgb(175,175,175);
+    z-index: 3;
+}
+.form-actions{
+    margin-top: 33px;
+}
+.headerbar{
+     display: block;
+    width: 100%;
+    position: relative;
+    background-color: rgb(34,97,171);
+    height: auto;
+    overflow: hidden;
+    -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.headercontainer{
+    width: 95%;
+    margin: 0 auto;
+}
+.headersettings{
+    display: block;
+    float: right;
+    height: 82px;
+}
+.headersettingscell{
+     display: block;
+     float: left;
+     position: relative;
+     text-align: center;
+      height: 82px;
+     width: 100px;
+     color: #ffffff;
+    font-family: SimHei;
+    font-weight: bold;
+    line-height: 82px;
+}
+.headersettingscell:hover{
+    background-color: rgb(23,85,155);
+}
+ .headertitle{
+    display: block;
+    position: relative;
+    float: left;
+    height: 82px;
+    font-family: SimHei;
+    font-size: 28px;
+    color: #ffffff;
+    line-height: 82px;
+    vertical-align: middle;
+   
+ }
+ .login-form {
+    width: 445px;
+    height: 340px;
+    position: absolute;
+    top: 50%;
+    margin-top: -9.375rem;
+    left: 753px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: rgb(182,182,182);
+    border-radius: 5px;
+    opacity: 0;
+    -webkit-transform: scale(.8);
+    transform: scale(.8);            
+            }
+ .loginbtn {
+     width: 162px;
+     height: 53px;
+     float: right;
+     position: relative;
+     right: 45px;   
+     border-radius: 5px;
+     background-color: rgb(22,84,155);
+                                                                                                 
+ }
+.loginbtntext {
+     position: relative;
+     left: -10px;
+     font-family: Microsoft YaHei;
+     font-size: 20px;
+     color: white;  
+}
+ .loginnav {
+    margin-bottom: 33px;
+    background-color: rgb(51,51,51);
+    height: 46px;
+    border-radius: 5px 5px 0px 0px;
+    font-family: Microsoft YaHei;
+    font-size: 20px;
+    color: #ffffff;
+    overflow: hidden;
+ }
+ .loginnavtitle {
+     margin-top: 10px;
+     text-align: center;
+ }
+ .loginpage{
+      background-image: url(../../Content/CV/images/cv.jpg);
+ }
+ .inputbox {
+     width: 354px;
+     height: 55px;
+     position: relative;
+     border-radius: 5px;
+     margin-left: 45px;
+     margin-right: 45px;
+     padding-left: 75px;
+     z-index: 0;
+ }
+ .inputarea {
+     width: 100%;
+     margin-bottom: 14px;
+     overflow: hidden;
+ }
+ .inputspanup {
+     position: absolute;
+     left: 65px;
+     top: 13px;
+     z-index: 1;
+ }
+ .inputspandown {
+     position: absolute;
+     left: 67px;
+     top: 13px;
+     z-index: 1;
+ }
+ .main{
+     background-color: rgb(241,241,241);
+ }
+ .pagecontext{
+     display: inline;
+     position: relative;
+     left: 670px;
+     font-family: Microsoft YaHei;
+     font-size: 10px;
+     margin-bottom: 15px;
+     margin-right: 10px;
+ }
+ .pageinput{
+     display: inline;
+ }
+ .pagesearching{
+    display: inline;
+     position: relative;
+     left: 670px;
+    font-family: Microsoft YaHei;
+    font-size: 10px;
+ }
+  .pagesearching input{
+    display: inline;
+     height: 15px;
+    width: 20px;
+ }
+ .pageswitch{
+     display: inline;
+     position: relative;
+     left: 670px;
+      font-family: Microsoft YaHei;
+     font-size: 10px;
+     margin-right: 10px;
+ }
+ .searching{
+     height: 32px;
+     width: 139px;
+     border-radius: 3px;
+     margin-right: 10px;
+ }
+ .side-bar{
+    display: block;
+    float: left;
+    width: 324px;
+    height: 100%;
+    background-color: rgb(49,51,58);
+    margin-right: 22px;
+    z-index: 1;
+ }
+ .sidebarcell {
+     display: inline-block;
+     float: left;
+     height: 52px;
+     width: 324px;
+     background-color: rgb(49,51,58);
+     border: 1px solid;
+     border-color: transparent transparent rgb(64,66,73) transparent;
+ }
+ .sidebarcell:hover{
+      background-color: rgb(23,85,155);
+ }
+ .status{
+      position: relative;
+      left: 80px;
+      top: 8px;
+      font-family: Microsoft YaHei;
+      font-size: 15px;
+      color: rgb(130,129,129);
+ }
+.subheader{
+    display: block;
+    position: relative;
+    height: 50px;
+    background-color: rgb(245,245,245);
+    border: 1px solid;
+    border-color:transparent transparent rgb(209,209,209) transparent;
+    margin-bottom: 22px;
+    vertical-align: middle;
+    z-index: 0;
+}
+.tablebtn{
+    display: inline;
+    position: relative;
+    height: 70px;
+    margin-left: 22px;
+}
+
+.tablecontext{
+    margin-left: 22px;
+    margin-right: 22px;
+    margin-bottom: 15px;
+}
+.tablecontrol{
+    display: block;
+    width: 100%;
+    position: relative;
+    height: auto;
+    overflow: hidden;
+}
+.tableheader{
+    background-color: rgb(224,224,225);
+}
+.tableheadertitle{
+    display: block;
+    position: relative;
+    text-align: center;
+    background-color: rgb(233,233,233);
+    color: black;
+    font-family: SimHei;
+    font-size: 15px;
+    line-height: 50px;
+    height: 50px;
+    width: 161px;
+}
+.tablemain{
+    background-color: #ffffff;
+}
+.tablepaginator{
+    margin-right: 22px;
+    margin-bottom: 22px;
+}
+.tablesearching{
+    display: inline;
+    float: right;
+    margin-right: 22px;
+    margin-top: 19px;
+}
+.tablezone{
+    display: block;
+    position: absolute;
+    left: 346px;
+    background-color: #ffffff;
+    border: solid;
+    border-width: 5px 1px 1px 1px;
+    border-color: rgb(34,97,171) rgb(233,233,233) rgb(233,233,233) rgb(233,233,233);
+    overflow: hidden;
+}
+.td_danhao{
+    width: 245px;
+    height: 38px;
+}
+.td_others{
+    width: 190px;
+    height: 38px;
+}
+.th_danhao{
+    width: 245px;
+    height: 46px;
+}
+.th_others{
+    width: 190px;
+    height: 46px;
+}
+.totalrecord{
+    color: rgb(0,157,228);
+    display: inline;
+}
+.userposition{
+    position: relative;
+    float: left;
+    left: 50px;
+    font-family: SimHei;
+    line-height: 50px;
+    
+}
+.userdate{
+     position: relative;
+     float: right;
+     right: 50px;
+     line-height: 50px;
+     font-family: SimHei;
+
+}
+
