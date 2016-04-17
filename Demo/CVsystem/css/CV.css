@@ -229,7 +229,6 @@
      display: inline;
      font-family: Microsoft YaHei;
      font-size: 10px;
-     margin-bottom: 15px;
      margin-right: 10px;
  }
  .pageinput{
@@ -335,12 +334,12 @@
 }
 .tablepaginator{
     margin-right: 22px;
-    margin-bottom: 22px;
+
 }
 .tablepaginatorcell{
     display: block;
     float: right;
-    margin-right: 22px;
+    margin-bottom: 22px;
 }
 .tablesearching{
     display: inline;
