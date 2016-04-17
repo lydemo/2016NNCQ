@@ -221,6 +221,7 @@
  }
  .main{
      background-color: rgb(241,241,241);
+	 height: 100%;
  }
  .pagecontext{
      display: inline;
