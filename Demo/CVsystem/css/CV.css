@@ -292,7 +292,6 @@
  }
 .subheader{
     display: block;
-    position: relative;
     height: 50px;
     background-color: rgb(245,245,245);
     border: 1px solid;
