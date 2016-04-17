@@ -343,6 +343,11 @@
     margin-right: 22px;
     margin-bottom: 22px;
 }
+.tablepaginatorcell{
+    display: block;
+    float: right;
+    margin-right: 22px;
+}
 .tablesearching{
     display: inline;
     float: right;
