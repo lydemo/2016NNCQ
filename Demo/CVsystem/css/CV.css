@@ -227,8 +227,6 @@
  }
  .pagecontext{
      display: inline;
-     position: relative;
-     left: 670px;
      font-family: Microsoft YaHei;
      font-size: 10px;
      margin-bottom: 15px;
@@ -239,8 +237,6 @@
  }
  .pagesearching{
     display: inline;
-     position: relative;
-     left: 670px;
     font-family: Microsoft YaHei;
     font-size: 10px;
  }
@@ -251,8 +247,6 @@
  }
  .pageswitch{
      display: inline;
-     position: relative;
-     left: 670px;
       font-family: Microsoft YaHei;
      font-size: 10px;
      margin-right: 10px;
